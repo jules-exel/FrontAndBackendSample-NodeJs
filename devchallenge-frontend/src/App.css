@@ -1,0 +1,31 @@
+#main {
+  text-align: center;
+}
+  
+#main {
+  background: linear-gradient( #282c34, #393f49);
+  min-height: 100vh;
+  display: flex; 
+  align-items: center; 
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#main h2 {
+  color:azure
+}
+  
+a { 
+  text-decoration: none;
+} 
+.form-label {
+  margin-bottom: 0.5rem;
+}
+
+.form-text { 
+  color: #ff6e70;
+}
+
+label {
+  display: block;
+}
